@@ -12,4 +12,4 @@ Consumindo um Web service RESTful com Spring Boot
 ![alt text](/imagens/putPostaMan.png)
 
 #DELETE
-![alt text](/imagens/deletePostaMan.png)
+![alt text](imagens/deletePostMan.png)
