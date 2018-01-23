@@ -3,13 +3,13 @@
 Consumindo um Web service RESTful com Spring Boot 
 
 #GET
-![alt text](/imagens/getPostaMan.png "Json Simple")
+![alt text](/imagens/getPostaMan.png)
 
 #POST
-![alt text](/imagens/postPostaMan.png "Json Simple")
+![alt text](/imagens/postPostaMan.png)
 
 #PUT
-![alt text](/imagens/putPostaMan.png "Json Simple")
+![alt text](/imagens/putPostaMan.png)
 
 #DELETE
-![alt text](/imagens/deletePostaMan.png "Json Simple")
+![alt text](/imagens/deletePostaMan.png)
