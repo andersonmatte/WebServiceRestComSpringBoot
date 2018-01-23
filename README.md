@@ -2,14 +2,14 @@
 
 Consumindo um Web service RESTful com Spring Boot 
 
-#GET
+# GET
 ![alt text](imagens/getPostMan.png)
 
-#POST
+# POST
 ![alt text](imagens/postPostMan.png)
 
-#PUT
+# PUT
 ![alt text](imagens/putPostMan.png)
 
-#DELETE
+# DELETE
 ![alt text](imagens/deletePostMan.png)
